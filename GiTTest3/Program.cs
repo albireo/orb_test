@@ -9,8 +9,9 @@
  * Main change history
  * 3/2/2016 13:51	Initial commit.
  * 
- */ 
+ */
 
+using GiTTest3.Classes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,7 @@ namespace GiTTest3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(ClassB.NotRandom());
         }
     }
 }

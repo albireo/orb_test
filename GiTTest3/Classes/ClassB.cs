@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GiTTest3.Classes
 {
-    class ClassB
+    public class ClassB : ClassA
     {
+
+
     }
 }

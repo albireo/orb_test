@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GiTTest3.Classes
 {
-    class ClassA
+    public class ClassA
     {
+        public static int NotRandom()
+        {
+            return 42;
+        }
     }
 }
