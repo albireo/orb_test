@@ -1,4 +1,16 @@
-﻿using System.Reflection;
+﻿/* Project Test
+ * by sizquierdo
+ * All rights reserved
+ *
+ * Filename:	AssemblyInfo.cs
+ * Project:	GiTTest3
+ * Original namespace:	%Namespace%
+ * 
+ * Main change history
+ * 3/2/2016 13:51	Initial commit.
+ * 
+ */ 
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

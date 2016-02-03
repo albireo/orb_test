@@ -1,0 +1,24 @@
+extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+/* Project Test
+ * by sizquierdo
+ * All rights reserved
+ *
+ * Filename:	%FileName%
+ * Project:	%Project%
+ * Original namespace:	%Namespace%
+ * 
+ * Main change history
+ * %CurrentDay%/%CurrentMonth%/%CurrentYear% %CurrentTime%	Initial commit.
+ * 
+ */ 
+extensions: .aspx .ascx
+<%-- 
+Sample license text.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->
