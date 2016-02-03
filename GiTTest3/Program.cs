@@ -24,7 +24,7 @@ namespace GiTTest3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("B"+ClassB.NotRandom());
+            Console.WriteLine("C"+ClassB.NotRandom());
         }
     }
 }
